@@ -1,1 +1,2 @@
 adding some text to blog page
+adding text to pull content to local
